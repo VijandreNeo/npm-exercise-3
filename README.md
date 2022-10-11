@@ -12,7 +12,6 @@ node index.js '1 * 2' '1 / 2'
 
 expected result: Error: More than one argument.
 
-
 If the code receives only a SINGLE argument, it will print out the postfix version of the argument passed.
 
 e.g.
